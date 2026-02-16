@@ -1,0 +1,5 @@
+Python==3.8.0
+Pytest==7.4.0
+Playwright==1.48.0
+Pytest-Playwright==0.5.2
+Pytest-html==4.13.2
