@@ -5,4 +5,5 @@ class CartPage:
 
     def proceed_to_checkout(self):
         """לחיצה על כפתור ה-Checkout בעגלה"""
+
         self.checkout_button.click()
