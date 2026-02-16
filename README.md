@@ -11,7 +11,7 @@ It covers the entire STLC (Software Testing Life Cycle), from initial planning t
 * **Reports/** - Test execution reports and screenshots.
 
 ### Test Execution Summary
-![Test_Execution_Summary.png](Reports/Test_Execution_Summary.png)
+![Test_Execution_Summary.png.png](Reports/Test_Execution_Summary.png)
 
 ## Technology Stack
 * **Language:** Python
@@ -23,6 +23,7 @@ It covers the entire STLC (Software Testing Life Cycle), from initial planning t
 1. **Clone the repository:**
    ```bash
    https://github.com/ShaniP-Git/SwagLabs-QA-Automation
+
 
 
 
