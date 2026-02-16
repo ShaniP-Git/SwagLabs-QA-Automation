@@ -12,4 +12,5 @@ class HomePage:
 
     def go_to_cart(self):
         """מעבר לעמוד העגלה"""
+
         self.cart_link.click()
