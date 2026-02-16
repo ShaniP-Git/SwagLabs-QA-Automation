@@ -21,10 +21,8 @@ It covers the entire STLC (Software Testing Life Cycle), from initial planning t
 
 ## How to Run the Tests
 1. **Clone the repository:**
-   ```bash
+```bash
 git clone https://github.com/ShaniP-Git/SwagLabs-QA-Automation.git
-   ```
-
 
 
 
