@@ -32,5 +32,6 @@ During testing, a **Blocker** defect was identified in the `error_user` profile:
 ## How to Run the Tests
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ShaniP-Git/SwagLabs-QA-Automation]
+   https://github.com/ShaniP-Git/SwagLabs-QA-Automation
+
 
